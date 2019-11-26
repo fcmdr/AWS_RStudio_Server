@@ -1,4 +1,6 @@
 # Install RStudio Server on an Amazon-AWS instance
+<img width="500" alt="AWS Rstudio Server architecture" src="https://user-images.githubusercontent.com/58029143/69636352-adf57d00-1056-11ea-97d4-e7d6dbfdbc75.png">
+
 
 ## Prerequisites
 
